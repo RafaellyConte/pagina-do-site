@@ -1,0 +1,47 @@
+body{
+	background: #87CEEB;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	line-height: 1.6;
+}
+
+.container{
+	margin: 0 auto; /* Margem inferio igual a zero e margens laterais em auto para centralizar */
+	width: 960px;   /* Fixa a largura do container em 960 pixels */
+}
+
+.place{
+	background-color: #F0FFFF;
+	border-color: #6495ED;
+	border: 2px solid #6495ED;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.localização{
+	background-color:#F0FFFF;
+	border-color:
+	border:2px;
+	margin:20px;
+	padding: 3px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: ;
+  background-color: #4682B4;
+ position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+li a {
+  display: ;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
